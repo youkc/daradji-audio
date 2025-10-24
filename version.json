@@ -1,13 +1,13 @@
 {
-  "quizzes_version": "1.0.0",
-  "last_update": "2025-01-24",
+  "quizzes_version": "1.1.0",
+  "last_update": "2025-02-15",
   "changelog": {
-    "quizzes": "Version initiale avec 5 catégories de quiz"
+    "quizzes": "Ajout de 50 nouvelles questions sur le Hadith"
   },
   "features": {
     "quizzes": {
       "total_categories": 5,
-      "total_questions": 150,
+      "total_questions": 200,
       "new_categories": []
     }
   }
