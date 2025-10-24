@@ -1,0 +1,20 @@
+{
+  "quizzes_version": "1.0.0",
+  "quran_version": "1.0.0",
+  "last_update": "2025-01-15",
+  "changelog": {
+    "quizzes": "Version initiale avec 5 catégories de quiz",
+    "quran": "Version initiale avec les 114 sourates"
+  },
+  "features": {
+    "quizzes": {
+      "total_categories": 5,
+      "total_questions": 150,
+      "new_categories": []
+    },
+    "quran": {
+      "total_surahs": 114,
+      "improvements": []
+    }
+  }
+}
